@@ -11,4 +11,4 @@ Following are the steps (must use 64bit windows):
 * Set up Hadoop environment in Windows
 * Run Hadoop in Windows
 
-See details at my StackOverflow post: [Hadoop 2.4 (2.4.0) build, install and run on Windows 8](http://stackoverflow.com/questions/24299034/hadoop-2-4-2-4-0-build-install-and-run-on-windows-8)
+See details at my blog post: [Hadoop 2.4 (2.4.0) build, install and run on Windows 8](http://zutai.blogspot.com/2014/06/build-install-and-run-hadoop-24-240-on.html)
